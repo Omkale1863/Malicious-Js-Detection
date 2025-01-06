@@ -1,6 +1,4 @@
-# Saving the README content to a file named README.md
 
-readme_content = """
 # Malicious JavaScript Detector
 
 ## Overview
