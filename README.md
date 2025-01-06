@@ -24,5 +24,6 @@ The Malicious JavaScript Detector is deployed and accessible at: [Malicious Java
    ```bash
    git clone https://github.com/your-username/malicious-js-detector.git
 
-![Malicious JavaScript Detector UI](./assets/Screenshot%202025-01-06%20164608.png)
+![Screenshot 2025-01-06 164608](https://github.com/user-attachments/assets/eda6020f-11b2-4064-9a1b-67535fb50a42)
+
 
